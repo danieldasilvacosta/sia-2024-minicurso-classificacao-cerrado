@@ -4,4 +4,6 @@ Repositório que hospedará a apresentação e o notebook do minicurso "Classifi
 
 Daniel da Silva Costa
 </br>
+daniel.scosta@edu.unirio.br
+</br>
 PPGI/UNIRIO
