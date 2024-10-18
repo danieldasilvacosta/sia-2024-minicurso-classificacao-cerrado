@@ -16,7 +16,7 @@ Ensinar os conceitos básicos de redes neurais artificiais, que definem a área 
 
 **Palavras-chave:** bioma; aprendizagem profunda; inteligência artificial.
 
-### Página do artigo
+### Página do artigo do *dataset*
 
 https://ieeexplore.ieee.org/document/9991746
 
